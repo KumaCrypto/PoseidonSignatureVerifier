@@ -1,0 +1,15 @@
+{
+  "name": "poseidon_signature_verifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh run.sh SignatureChecker input.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "circomlib": "^2.0.5"
+  }
+}
